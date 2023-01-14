@@ -1,7 +1,6 @@
 # Comandos úteis para desenvolvedores
 
-<style
->
+<style>
 .center {
   text-align: center;
 }
@@ -11,7 +10,7 @@
 />
 
 <h2
-  text-align:'center'
+  class='center'
 >
   mkdir nome-do-diretorio
 </h2>
