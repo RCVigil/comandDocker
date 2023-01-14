@@ -3,6 +3,20 @@
 <br
 />
 
+## Abrir um terminal
+
+> <p
+> >
+
+    ctrl + alt + t
+
+  </p>
+
+> O comando vai abrir um prompt de comando(mais conhecido como terminal).
+
+<br
+/>
+
 ## mkdir nome-do-diretorio
 
   <h4
