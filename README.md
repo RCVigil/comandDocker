@@ -6,7 +6,7 @@
 #### Obs.: Utilizei quando a porta do docker local bloqueava subir o docker-compose
 
 > <p>
-lsof -i tcp:27017
+  lsof -i tcp:27017
   </p>
 
 >    O comando lsof (listar arquivos abertos) retorna os processos do usuário que estão usando ativamente um sistema de arquivos . Às vezes, é >  útil determinar por que um sistema de arquivos permanece em uso e não pode ser desmontado.
