@@ -1,10 +1,10 @@
-# Comandos úteis para desenvolvedores
-
 <style>
 .center {
   text-align: center;
 }
 </style>
+
+# Comandos úteis para desenvolvedores
 
 <br
 />
