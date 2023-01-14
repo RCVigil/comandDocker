@@ -1,20 +1,12 @@
-<!-- <style>
-.center {
-  color: blue;
-  text-align: center;
-}
-</style> -->
+Heading Identifiers:
+## Red text title {#identifier .red}
 
 # Comandos úteis para desenvolvedores
 
 <br
 />
 
-<div style="color:red">
-
-## mkdir nome-do-diretorio
-
-</div>
+## mkdir nome-do-diretorio {.red}
 
 <h4
 >
