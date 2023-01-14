@@ -10,9 +10,9 @@
 <br
 />
 
-<h2 style="color:red">
+<div style="color:red">
   mkdir nome-do-diretorio
-</h2>
+</div>
 
 <h4
 >
