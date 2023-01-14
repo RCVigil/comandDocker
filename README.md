@@ -2,13 +2,22 @@ import './readme.Css';
 
 # Comandos úteis para desenvolvedores
 
-<br/>
+<br
+/>
 
-<h2 style={text-align:'center'}>mkdir nome-do-diretorio</h2>
+<h2
+  text-align:'center'
+>
+  mkdir nome-do-diretorio
+</h2>
 
-<h4>Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case</h4>
+<h4
+>
+  Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case
+</h4>
 
-> <p>
+> <p
+> >
 
     mkdir nome-do-diretorio
 
@@ -16,13 +25,16 @@ import './readme.Css';
 
 > O comando mkdir gera diretório.
 
-<br/>
+<br
+/>
 
 ## lsof -i tcp:27017
 
-<h4>Obs.: Utilizei quando, a porta do docker local, bloqueava subir o docker-compose.</h4>
+<h4
+>Obs.: Utilizei quando, a porta do docker local, bloqueava subir o docker-compose.</h4>
 
-> <p>
+> <p
+> >
 
     lsof -i tcp:27017
 
@@ -30,11 +42,13 @@ import './readme.Css';
 
 > O comando lsof (listar arquivos abertos) retorna os processos do usuário que estão usando ativamente um sistema de arquivos . Às vezes, é útil determinar por que um sistema de arquivos permanece em uso e não pode ser desmontado.
 
-<br/>
+<br
+/>
 
 ## docker ps -a
 
-> <p>
+> <p
+> >
 
     docker ps -a
 
@@ -42,11 +56,13 @@ import './readme.Css';
 
 > O comando docker ps -a é para verificar os containers existentes na máquina -a é para verificar inclusive os inativos
 
-<br/>
+<br
+/>
 
 ## docker-compose up -d
 
-> <p>
+> <p
+> >
 
     docker-compose up -d
 
@@ -54,25 +70,31 @@ import './readme.Css';
 
 > O comando docker-compose up -d é para subir o docker-compose e o -d manter ativo na máquina.
 
-<br/>
+<br
+/>
 
 ## docker exec -it [nome-do-container ou o código] bash
 
-> <p>
+> <p
+> >
 
     docker exec -it [nome-do-container ou o código] bash
 
  </p>
 
- <h4>Obs.: Para sair so digitar exit e clicar no enter.</h4>
+ <h4
+ >
+  Obs.: Para sair so digitar exit e clicar no enter.</h4>
 
 > O comando docker exec -it [nome-do-container ou o código] bash  este comando vai executar o docker-compose e te deixar dentro do container no terminal bash
 
-<br/>
+<br
+/>
 
 ## docker-compose down
 
-> <p>
+> <p
+> >
 
     docker-compose down
 
@@ -80,4 +102,5 @@ import './readme.Css';
 
 > O comando docker-compose down é para baixar o docker-compose
 
-<br/>
+<br
+/>
