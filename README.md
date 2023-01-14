@@ -11,7 +11,9 @@
 />
 
 <div style="color:red">
-  mkdir nome-do-diretorio
+
+## mkdir nome-do-diretorio
+
 </div>
 
 <h4
