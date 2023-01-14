@@ -10,15 +10,11 @@ name="viewport" content="width=device-width, initial-scale=1">
 <br
 />
 
-<details>
-  <summary> <strong
-  class='center'
->mkdir nome-do-diretorio</strong></summary>
-
+## mkdir nome-do-diretorio
 
   <h4
-> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Nome do diretorio **não pode ter espaço** senão é gerado 2 diretórios, mais pode usar <strong>camelCase</strong> ou <strong>snack-case</strong>
+>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Nome do diretorio :point_right `não pode ter espaço` senão é gerado 2 diretórios, mais pode usar <strong>camelCase</strong> ou <strong>snack-case</strong>
 </h4>
 
 > <p
@@ -32,7 +28,7 @@ name="viewport" content="width=device-width, initial-scale=1">
 
 <br
 />
-</details>
+
 ## lsof -i tcp:27017
 
 <h4
