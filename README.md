@@ -1,12 +1,5 @@
 # Comandos úteis para desenvolvedores
 
-<meta
-name="viewport" content="width=device-width, initial-scale=1">
-
-<link
-  rel="stylesheet" href="./style.css"
->
-
 <br
 />
 
@@ -14,7 +7,7 @@ name="viewport" content="width=device-width, initial-scale=1">
 
   <h4
 >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Nome do diretorio :point_right `não pode ter espaço` senão é gerado 2 diretórios, mais pode usar <strong>camelCase</strong> ou <strong>snack-case</strong>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Nome do diretorio ***não pode ter espaço*** senão é gerado 2 diretórios, mais pode usar <strong>camelCase</strong> ou <strong>snack-case</strong>
 </h4>
 
 > <p
