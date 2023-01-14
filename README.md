@@ -1,5 +1,15 @@
 # Comandos úteis para desenvolvedores
 
+## mkdir nome-do-diretorio
+
+<h4>Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case</h4>
+
+> <p>
+    mkdir nome-do-diretorio
+  </p>
+
+> O comando mkdir gera diretório.
+
 ## lsof -i tcp:27017
 
 <h4>Obs.: Utilizei quando a porta do docker local bloqueava subir o docker-compose.</h4>
