@@ -12,7 +12,7 @@
 
   </p>
 
-> O comando vai abrir um prompt de comando(mais conhecido como terminal).
+> Em qualquer momento só clicar as 3 teclas juntas o comando vai abrir um prompt de comando(mais conhecido como terminal).
 
 <br
 />
