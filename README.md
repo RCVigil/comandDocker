@@ -16,7 +16,9 @@ name="viewport" content="width=device-width, initial-scale=1">
 
 <h4
 >
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Nome do diretorio $$
+não pode ter espaço
+$$ senão é gerado 2 diretórios, mais pode usar **camelCase** ou **snack-case**
 </h4>
 
 > <p
