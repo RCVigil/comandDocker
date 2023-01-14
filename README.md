@@ -1,5 +1,6 @@
 <style>
 .center {
+  color: blue;
   text-align: center;
 }
 </style>
@@ -17,7 +18,7 @@
 
 <h4
 >
-  Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case
+  &nbsp;Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case
 </h4>
 
 > <p
