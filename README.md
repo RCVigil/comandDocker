@@ -1,9 +1,9 @@
-<style>
+<!-- <style>
 .center {
   color: blue;
   text-align: center;
 }
-</style>
+</style> -->
 
 # Comandos úteis para desenvolvedores
 
@@ -11,7 +11,7 @@
 />
 
 <h2
-  class='center'
+  style="text-align:center"
 >
   mkdir nome-do-diretorio
 </h2>
