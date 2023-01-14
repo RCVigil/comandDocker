@@ -1,1 +1,12 @@
-# comandDocker
+# Comandos úteis do Docker para desnvolvedores
+
+
+## lsof -i tcp:27017
+
+#### Obs.: Utilizei quando a porta do docker local bloqueava subir o docker-compose
+
+> <p>
+    O comando lsof (listar arquivos abertos) retorna os processos do usuário que estão usando ativamente um sistema de arquivos . Às vezes, é útil determinar por que um sistema de arquivos permanece em uso e não pode ser desmontado.
+  </p>;
+
+## docker-compose up -d
