@@ -1,8 +1,10 @@
+import './readme.Css';
+
 # Comandos úteis para desenvolvedores
 
 <br/>
 
-## mkdir nome-do-diretorio
+<h2 class='center'>mkdir nome-do-diretorio</h2>
 
 <h4>Obs.: Nome do diretorio não pode ter espaço senão é gerado 2 diretórios, mais pode usar camelCase ou snack-case</h4>
 
