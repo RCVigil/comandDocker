@@ -10,7 +10,7 @@
 <br
 />
 
-<div style="color:red width:100%">
+<div style="color:red">
   <h2>mkdir nome-do-diretorio</h2>
 </div>
 
