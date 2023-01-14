@@ -24,4 +24,4 @@
     docker-compose down
  </p>
 
-> O comando docker-compose down é para baixar o docker-compose.
+> O comando docker-compose down é para baixar o docker-compose
