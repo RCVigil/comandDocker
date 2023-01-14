@@ -1,6 +1,11 @@
-import './readme.Css';
-
 # Comandos úteis para desenvolvedores
+
+<style
+>
+.center {
+  text-align: center;
+}
+</style>
 
 <br
 />
