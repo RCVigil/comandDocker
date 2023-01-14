@@ -18,7 +18,7 @@
 
 ## lsof -i tcp:27017
 
-<h4>Obs.: Utilizei quando a porta do docker local bloqueava subir o docker-compose.</h4>
+<h4>Obs.: Utilizei quando, a porta do docker local, bloqueava subir o docker-compose.</h4>
 
 > <p>
 
@@ -51,6 +51,20 @@
  </p>
 
 > O comando docker-compose up -d é para subir o docker-compose e o -d manter ativo na máquina.
+
+<br/>
+
+## docker exec -it [nome-do-container ou o código] bash
+
+> <p>
+
+    docker exec -it [nome-do-container ou o código] bash
+
+ </p>
+
+ <h4>Obs.: Para sair so digitar exit e clicar no enter.</h4>
+
+> O comando docker exec -it [nome-do-container ou o código] bash  este comando vai executar o docker-compose e te deixar dentro do container no terminal bash
 
 <br/>
 
