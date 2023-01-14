@@ -10,7 +10,7 @@
 <br
 />
 
-<h2 style="text-align:center">
+<h2 style="color:red">
   mkdir nome-do-diretorio
 </h2>
 
