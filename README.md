@@ -1,12 +1,19 @@
-Heading Identifiers:
-## Red text title {#identifier .red}
-
 # Comandos úteis para desenvolvedores
+
+<meta
+  name="viewport" content="width=device-width, initial-scale=1"
+>
+
+<link
+  rel="stylesheet" href="./style.css"
+>
 
 <br
 />
 
-## mkdir nome-do-diretorio {.red}
+<h2
+  class='center'
+>mkdir nome-do-diretorio</h2>
 
 <h4
 >
@@ -28,7 +35,8 @@ Heading Identifiers:
 ## lsof -i tcp:27017
 
 <h4
->Obs.: Utilizei quando, a porta do docker local, bloqueava subir o docker-compose.</h4>
+>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilizei quando, a porta do docker local, bloqueava subir o docker-compose.</h4>
 
 > <p
 > >
@@ -81,7 +89,7 @@ Heading Identifiers:
 
  <h4
  >
-  Obs.: Para sair so digitar exit e clicar no enter.</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Para sair so digitar exit e clicar no enter.</h4>
 
 > O comando docker exec -it [nome-do-container ou o código] bash  este comando vai executar o docker-compose e te deixar dentro do container no terminal bash
 
