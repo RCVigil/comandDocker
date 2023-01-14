@@ -124,6 +124,34 @@
 <br
 />
 
+## docker images -a
+
+> <p
+> >
+
+    docker images -a
+
+ </p>
+
+> O comando docker images -a vai listar todas as imagens Docker.
+
+<br
+/>
+
+## docker rmi $(docker images -a -q)
+
+> <p
+> >
+
+    docker rmi $(docker images -a -q)
+
+ </p>
+
+> O comando docker rmi $(docker images -a -q) vai remover todas as imagens da maquina (Full Completo), inclusive as que tiverem ocultas.
+
+<br
+/>
+
 ## docker container inspect [CONTAINER_ID ou NAME]
 
 > <p
