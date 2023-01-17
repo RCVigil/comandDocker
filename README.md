@@ -211,3 +211,17 @@
 
 <br
 />
+
+## docker system prune --all --volumes
+
+> <p
+> >
+
+    docker system prune --all --volumes
+
+ </p>
+
+> O comando docker system prune --all --volumes é para <strong>REMOVER TUDO DE UMA SÓ VEZ</strong>
+
+<br
+/>
