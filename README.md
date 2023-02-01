@@ -222,7 +222,7 @@
  </p>
 
 > O comando docker system prune --all --volumes é para <strong>REMOVER TUDO DE UMA SÓ VEZ</strong>
-    *Este comando não deleta o docker-compose up. Ou seja os containers startados.
+<p> * Este comando não deleta o docker-compose up. Ou seja os containers startados. * </p>
 
 <br
 />
