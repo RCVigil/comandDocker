@@ -212,10 +212,15 @@
 <br
 />
 
+  <hr>
+<br
+/>
+    
 ## docker system prune --all --volumes
 
 > <p
 > >
+
 
     docker system prune --all --volumes
 
