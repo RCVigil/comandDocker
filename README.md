@@ -58,7 +58,7 @@
 
 <h4
 >
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilizei quando, a porta 3001 local, estava em uso e eu precisava liberar ele. Este comando mata o que esta rodando nel </h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilizei quando, a porta 3001 local, estava em uso e eu precisava liberar ele. Este comando mata o que esta rodando nela </h4>
 
 > <p
 > >
