@@ -54,6 +54,24 @@
 <br
 />
 
+## sudo kill -9 `sudo lsof -t -i:3001`
+
+<h4
+>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilizei quando, a porta 3001 local, estava em uso e eu precisava liberar ele. Este comando mata o que esta rodando nel </h4>
+
+> <p
+> >
+
+    sudo kill -9 `sudo lsof -t -i:3001`
+
+  </p>
+
+> O comando lsof (listar arquivos abertos) retorna os processos do usuário que estão usando ativamente um sistema de arquivos . Às vezes, é útil determinar por que um sistema de arquivos permanece em uso e não pode ser desmontado.
+
+<br
+/>
+
 ## docker ps -a
 
 > <p
