@@ -73,9 +73,9 @@
 
 > <p
 > >
-
-   setxkbmap -layout us -variant intl
-
+    
+    setxkbmap -layout us -variant intl
+   
   </p>
 
 4. Pressione Ctrl + O para salvar o arquivo, em seguida, Ctrl + X para sair do nano.
