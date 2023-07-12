@@ -36,6 +36,57 @@
 <br
 />
 
+## Comando para corrigir teclado americano
+
+  <h4
+>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Comando para corrigir teclado americano o meu Dell G-15
+</h4>
+
+> <p
+> >
+
+    setxkbmap -layout us -variant intl
+
+  </p>
+
+> Esse comando define o layout do teclado para o inglês dos EUA (us) com a variante internacional (intl). Esta variante permite digitar acentos e outros caracteres usados em português. Para digitar um acento, você pressiona a tecla do acento (como ' ou ~) e depois a letra a ser acentuada.
+
+> Essa mudança é temporária e será revertida quando você reiniciar o sistema.
+
+<br
+/>
+
+## Manter o comando anterior permanente
+
+1. Abra o terminal.
+2. Digite o comando abaixo, e pressione Enter. Isso abrirá o arquivo .bashrc(aqui pode ser bash ou ~/.xinitrc o que for padr~ao do sistema) no editor de texto nano.
+
+> <p
+> >
+
+    nano ~/.bashrc
+
+  </p>
+
+3. Role até o final do arquivo e adicione a seguinte linha
+
+> <p
+> >
+
+   setxkbmap -layout us -variant intl
+
+  </p>
+
+4. Pressione Ctrl + O para salvar o arquivo, em seguida, Ctrl + X para sair do nano.
+
+> Após essas etapas, o comando será executado toda vez que você abrir um novo terminal, o que efetivamente tornará a alteração permanente.
+
+> Porém, é importante notar que isso não mudará o layout do teclado para aplicativos que você inicia por meio do menu ou de um ícone, apenas para aplicativos que você inicia a partir do terminal.
+
+<br
+/>
+
 ## lsof -i tcp:27017
 
 <h4
