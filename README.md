@@ -13,7 +13,7 @@
 > <p>
 > >
 
-  service mongod status
+    service mongod status
 
 </p>
 
