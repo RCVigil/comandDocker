@@ -8,12 +8,51 @@
 </strong>
 </summary>
 
-## Verificar status do Mongo Db
+#### Verificar status do Mongo Db
 
 > <p
 > >
 
     service mongod status
+
+  </p>
+
+#### Ativar o service do Mongo Db
+
+> <p
+> >
+
+    sudo systemctl start mongod
+
+  </p>
+
+#### Desativar o service do Mongo Db
+
+> <p
+> >
+
+    sudo systemctl stop mongod
+
+  </p>
+
+#### Erro do Mongo Db
+
+> <p
+> >
+
+    Process: 51356 ExecStart=/usr/bin/mongod --config /etc/mongod.conf (code=exited, status=14)
+    Main PID: 51356 (code=exited, status=14)
+
+    Esse erro pode ocorrer se os arquivos do MongoDB tiverem as permissões erradas. Você pode corrigir as permissões com os seguintes comandos
+
+   </p>
+
+> <p
+> >
+
+    sudo chown -R mongodb:mongodb /var/lib/mongodb
+
+    sudo chown mongodb:mongodb /tmp/mongodb-27017.sock
 
   </p>
 
