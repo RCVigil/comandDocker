@@ -31,6 +31,20 @@
 <br
 />
 
+## Gerar um Icone na área de trabalho
+
+> <p
+> >
+
+    https://linuxconfig.org/how-to-create-desktop-shortcut-launcher-on-ubuntu-22-04-jammy-jellyfish-linux
+
+  </p>
+
+> Rolar a pagina até > Create a desktop application shortcut launcher manually depois deste texto ja começa a execução.
+
+<br
+/>
+
 ## mkdir nome-do-diretorio
 
   <h4
