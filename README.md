@@ -10,7 +10,12 @@
 
 ## Verificar status do Mongo Db
 
+> <p>
+> >
+
   service mongod status
+
+</p>
 
 </details>
 
