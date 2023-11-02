@@ -1,5 +1,19 @@
 # Comandos úteis para desenvolvedores
 
+<details>
+
+<summary>
+<strong>
+Mongo Db
+</strong>
+</summary>
+
+## Verificar status do Mongo Db
+
+  service mongod status
+
+</details>
+
 <br
 />
 
@@ -73,9 +87,9 @@
 
 > <p
 > >
-    
+
     setxkbmap -layout us -variant intl
-   
+
   </p>
 
 4. Pressione Ctrl + O para salvar o arquivo, em seguida, Ctrl + X para sair do nano.
@@ -226,7 +240,7 @@
 > <p
 > >
 
-    docker container inspect [CONTAINER_ID ou NAME] 
+    docker container inspect [CONTAINER_ID ou NAME]
 
  </p>
 
@@ -284,7 +298,7 @@
   <hr>
 <br
 />
-    
+
 ## docker system prune --all --volumes
 
 > <p
